@@ -1,2 +1,5 @@
-# MangSale
-مشروع بسيط لادارة المبيعات باستخدام c# + WPF و SQL SERVER 
+                                                                     # MangSale
+مشروع بسيط لادارة المبيعات باستخدام التقنيات التاية  
+c# 
+FormAplicoins
+ SQL SERVER 
